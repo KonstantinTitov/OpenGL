@@ -1,0 +1,1 @@
+This project is first attempt to create multi-platform opengl framework
